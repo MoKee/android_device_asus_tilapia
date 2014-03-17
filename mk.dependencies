@@ -1,0 +1,42 @@
+[
+    {
+      "repository": "android_kernel_asus_grouper",
+      "target_path": "kernel/asus/grouper"
+    },
+    {
+      "repository": "android_device_asus_grouper",
+      "target_path": "device/asus/grouper"
+    },
+    {
+      "repository": "android_vendor_asus_grouper",
+      "target_path": "vendor/asus/grouper"
+    },
+    {
+      "repository": "android_vendor_asus_tilapia",
+      "target_path": "vendor/asus/tilapia"
+    },
+    {
+      "repository": "android_vendor_broadcom_tilapia",
+      "target_path": "vendor/broadcom/tilapia"
+    },
+    {
+      "repository": "android_vendor_elan_tilapia",
+      "target_path": "vendor/elan/tilapia"
+    },
+    {
+      "repository": "android_vendor_invensense_tilapia",
+      "target_path": "vendor/invensense/tilapia"
+    },
+    {
+      "repository": "android_vendor_nvidia_tilapia",
+      "target_path": "vendor/nvidia/tilapia"
+    },
+    {
+      "repository": "android_vendor_nxp_tilapia",
+      "target_path": "vendor/nxp/tilapia"
+    },
+    {
+      "repository": "android_vendor_widevine_tilapia",
+      "target_path": "vendor/widevine/tilapia"
+    }
+]
